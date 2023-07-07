@@ -21,4 +21,4 @@ In one of the repositories, I present my educational analytical projects
 - Excel (ВПР, сводные таблицы, фильтрация)
 
 ### My repositories:
-- [Data-Science-Projects-Yandex.Praktikum](Data-Science-Projects-Yandex.Praktikum)
+- [Data-Science-Projects-Yandex.Praktikum](https://github.com/BadelinaLyubov/Data-Science-Projects-Yandex.Praktikum)
