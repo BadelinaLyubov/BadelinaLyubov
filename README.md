@@ -21,17 +21,4 @@ In the repositories, I present my educational analytical projects
 - Excel (ВПР, сводные таблицы, фильтрация)
 
 
-How to reach me:
-- telegram: t.me/@badelina_lyubov
-- e-mail: badelina.lyubov@yandex.ru
 
-<!--
-**BadelinaLyubov/BadelinaLyubov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-- 📫 How to reach me: t.me/@badelina_lyubov
-                       badelina.lyubov@yandex.ru
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
